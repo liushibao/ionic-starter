@@ -1,0 +1,12 @@
+{
+    "list": [
+        {
+            "courierCode": "courier_0",
+            "courierName": "courierName0"
+        },
+        {
+            "courierCode": "courier_1",
+            "courierName": "courierName1"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+export const CONSTANTS={
+    PACKAGE_CODE_LENGTH:4
+}

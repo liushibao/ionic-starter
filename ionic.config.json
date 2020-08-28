@@ -1,0 +1,7 @@
+{
+  "name": "mobile-portal",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

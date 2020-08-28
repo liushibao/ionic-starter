@@ -1,0 +1,17 @@
+{
+    "hasMore": true,
+    "list": [
+        {
+            "id": "aeb2a254-68bc-4980-9b92-78d0a2dd0a6f",
+            "storeId": "1eb2a254-68bc-4980-9b92-78d0a2dd0a6f",
+            "storeName": "某某小店3",
+            "status": "ACTIVE"
+        },
+        {
+            "id": "1bfd47be-1935-471c-861b-700f90ca668c",
+            "storeId": "2bfd47be-1935-471c-861b-700f90ca668c",
+            "storeName": "某某2小店3",
+            "status": "INACTIVE"
+        }
+    ]
+}

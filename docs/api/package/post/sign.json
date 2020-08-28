@@ -1,0 +1,11 @@
+{
+    "id": "f919837a-ef9c-4bd0-82f4-9a7708398550",
+    "courierCode": "courier_7",
+    "courierName": "courierName7",
+    "trackingNo":"EX1234562CN",
+    "mob": "13012345678",
+    "arraivedTime": "2020-07-11T04:59:01.332Z",
+    "storeName": "某某小店",
+    "shortNo": "1234",
+    "status": "DELIVERED"
+}

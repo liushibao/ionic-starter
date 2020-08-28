@@ -1,0 +1,117 @@
+{
+    "hasMore": true,
+    "list": [
+        {
+            "id": "7eb2a254-68bc-4980-9b92-78d0a2dd0a6f",
+            "deliveryManId": "beb2a254-68bc-4980-9b92-78d0a2dd0a6f",
+            "courierCode": "courier_0",
+            "courierName": "courierName0",
+            "trackingNo": "EX1234560CN",
+            "mob": "13012345678",
+            "arraivedTime": "2020-07-11T04:59:01.332Z",
+            "storeId": "aeb2a254-68bc-4980-9b92-78d0a2dd0a6f",
+            "storeName": "某某小店",
+            "shortNo": "1234",
+            "status": "ALLOCATED"
+        },
+        {
+            "id": "1bfd47be-1935-471c-861b-700f90ca668c",
+            "courierCode": "courier_1",
+            "courierName": "courierName1",
+            "trackingNo": "EX1234561CN",
+            "mob": "13012345678",
+            "arraivedTime": "2020-07-11T04:59:01.332Z",
+            "storeName": "某某2小店",
+            "shortNo": "2234",
+            "status": "ARRIVED"
+        },
+        {
+            "id": "f919837a-ef9c-4bd0-82f4-9a7708398550",
+            "courierCode": "courier_2",
+            "courierName": "courierName2",
+            "trackingNo": "EX1234562CN",
+            "mob": "13012345678",
+            "arraivedTime": "2020-07-11T04:59:01.332Z",
+            "storeName": "某某3小店",
+            "shortNo": "4434",
+            "status": "REJECTED"
+        },
+        {
+            "id": "3c9c0e9a-bde7-4fdd-af2f-9b08bbdd42bc",
+            "courierCode": "courier_3",
+            "courierName": "courierName3",
+            "trackingNo": "EX1234563CN",
+            "mob": "13012345678",
+            "arraivedTime": "2020-07-11T04:59:01.332Z",
+            "storeName": "某某小店",
+            "shortNo": "1234",
+            "status": "DELIVERED"
+        },
+        {
+            "id": "9406e730-4b78-4496-a7d7-dbb0d0fd9dde",
+            "courierCode": "courier_4",
+            "courierName": "courierName4",
+            "trackingNo": "EX1234564CN",
+            "mob": "13012345678",
+            "arraivedTime": "2020-07-11T04:59:01.332Z",
+            "storeName": "某某小店",
+            "shortNo": "1234",
+            "status": "ARRIVED"
+        },
+        {
+            "id": "42ab8861-2e8e-4497-94e2-2930f41594d8",
+            "courierCode": "courier_5",
+            "courierName": "courierName5",
+            "trackingNo": "EX1234565CN",
+            "mob": "13012345678",
+            "arraivedTime": "2020-07-11T04:59:01.332Z",
+            "storeName": "某某小店",
+            "shortNo": "1234",
+            "status": "ARRIVED"
+        },
+        {
+            "id": "f4f43c73-975b-4ddc-a54d-769c338d1105",
+            "courierCode": "courier_6",
+            "courierName": "courierName6",
+            "trackingNo": "EX1234566CN",
+            "mob": "13012345678",
+            "arraivedTime": "2020-07-11T04:59:01.332Z",
+            "storeName": "某某小店",
+            "shortNo": "1234",
+            "status": "ARRIVED"
+        },
+        {
+            "id": "de9898c9-8928-4797-86f4-deb38ce36d34",
+            "courierCode": "courier_7",
+            "courierName": "courierName7",
+            "trackingNo": "EX1234567CN",
+            "mob": "13012345678",
+            "arraivedTime": "2020-07-11T04:59:01.332Z",
+            "storeName": "某某小店",
+            "shortNo": "1234",
+            "status": "DELIVERED"
+        },
+        {
+            "id": "74aaa11a-6725-4f48-99a9-94a05e1c885d",
+            "courierCode": "courier_8",
+            "courierName": "courierName8",
+            "trackingNo": "EX1234568CN",
+            "mob": "13012345678",
+            "arraivedTime": "2020-07-11T04:59:01.332Z",
+            "storeName": "某某小店",
+            "shortNo": "1234",
+            "status": "ARRIVED"
+        },
+        {
+            "id": "80dec53f-c53d-418b-bbb8-a9b98e1b9242",
+            "courierCode": "courier_9",
+            "courierName": "courierName9",
+            "trackingNo": "EX1234569CN",
+            "mob": "13012345678",
+            "arraivedTime": "2020-07-11T04:59:01.332Z",
+            "storeName": "某某小店",
+            "shortNo": "1234",
+            "status": "ARRIVED"
+        }
+    ]
+}

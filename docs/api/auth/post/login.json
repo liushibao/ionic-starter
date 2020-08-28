@@ -1,0 +1,19 @@
+{
+    "access_token": "u5GXgnndqzodgznmetodnhos00zwu2lwe0nzutowqyyjy1yzdhndfm",
+    "token_type": "Bearer",
+    "refresh_token": "xPTDBhnmy0njewowmtymuwnc00ymiwlwfjowqtyme1ndvhnjaynzky",
+    "expires_in": 60000,
+    "refresh_expires_in": 2592000,
+    "user": {
+        "id": "157aa4f3-d719-4abd-9dd8-63e8a36b316e",
+        "nickname": "bob",
+        "name": "bob liu",
+        "mob": "18975331833",
+        "email": null,
+        "roles": [
+            "consumer",
+            "delivery_man",
+            "store"
+        ]
+    }
+}

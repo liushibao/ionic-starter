@@ -1,0 +1,13 @@
+{
+    "id": "7eb2a254-68bc-4980-9b92-78d0a2dd0a6f",
+    "deliveryManId": "beb2a254-68bc-4980-9b92-78d0a2dd0a6f",
+    "courierCode": "courier_0",
+    "courierName": "courierName0",
+    "trackingNo": "EX1234560CN",
+    "mob": "13012345678",
+    "arraivedTime": "2020-07-11T04:59:01.332Z",
+    "storeId": "aeb2a254-68bc-4980-9b92-78d0a2dd0a6f",
+    "storeName": "某某小店",
+    "shortNo": "1234",
+    "status": "ARRIVED"
+}

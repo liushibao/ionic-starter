@@ -1,0 +1,11 @@
+{
+    "id": "1bfd47be-1935-471c-861b-700f90ca668c",
+    "courierCode": "courier_1",
+    "courierName": "courierName1",
+    "trackingNo": "EX1234561CN",
+    "mob": "13012345678",
+    "arraivedTime": "2020-07-11T04:59:01.332Z",
+    "storeName": "某某2小店",
+    "shortNo": "2234",
+    "status": "ALLOCATED"
+}

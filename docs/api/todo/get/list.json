@@ -1,0 +1,155 @@
+{
+    "hasMore": true,
+    "list": [
+        {
+            "id": "1eb2a254-68bc-4980-9b92-78d0a2dd0a0a",
+            "createdTime": "2020-07-11T04:59:01.332Z",
+            "message": "你有包裹天天快递EX1234560CN到达某某小店。收件码是abc123。凭收件码取货，请千万不要提前泄漏。",
+            "isRead": true,
+            "action": "OPEN_CONSUMER_PACKAGE_LIST",
+            "data": null
+        },
+        {
+            "id": "21b2a254-68bc-4980-9b92-78d0a2dd0a0a",
+            "createdTime": "2020-07-11T04:59:01.332Z",
+            "message": "你有包裹天天快递EX1234560CN到达某某小店。收件码是abc123。凭收件码取货，请千万不要提前泄漏。",
+            "isRead": true,
+            "action": "OPEN_CONSUMER_PACKAGE_LIST",
+            "data": null
+        },
+        {
+            "id": "32b2a254-68bc-4980-9b92-78d0a2dd0a0a",
+            "createdTime": "2020-07-11T04:59:01.332Z",
+            "message": "你有包裹天天快递EX1234560CN到达某某小店。收件码是abc123。凭收件码取货，请千万不要提前泄漏。",
+            "isRead": true,
+            "action": "OPEN_CONSUMER_PACKAGE_LIST",
+            "data": null
+        },
+        {
+            "id": "43b2a254-68bc-4980-9b92-78d0a2dd0a0a",
+            "createdTime": "2020-07-11T04:59:01.332Z",
+            "message": "你有包裹天天快递EX1234560CN到达某某小店。收件码是abc123。凭收件码取货，请千万不要提前泄漏。",
+            "isRead": true,
+            "action": "OPEN_CONSUMER_PACKAGE_LIST",
+            "data": null
+        },
+        {
+            "id": "5eb2a254-68bc-4980-9b92-78d0a2dd0a0a",
+            "createdTime": "2020-07-11T04:59:01.332Z",
+            "message": "你有包裹天天快递EX1234560CN到达某某小店。收件码是abc123。凭收件码取货，请千万不要提前泄漏。",
+            "isRead": true,
+            "action": "OPEN_CONSUMER_PACKAGE_LIST",
+            "data": null
+        },
+        {
+            "id": "71b2a254-68bc-4980-9b92-78d0a2dd0a0a",
+            "isOnTop": true,
+            "createdTime": "2020-07-11T04:59:01.332Z",
+            "message": "系统将于xx时间升级0，届时将暂停服务，届时将暂停服务",
+            "isRead": false,
+            "action": "NOTIFICATION_ONLY",
+            "data": null
+        },
+        {
+            "id": "6eb2a254-68bc-4980-9b92-78d0a2dd0a0a",
+            "createdTime": "2020-07-11T04:59:01.332Z",
+            "message": "你有包裹天天快递EX1234560CN到达某某小店。收件码是abc123。凭收件码取货，请千万不要提前泄漏。",
+            "isRead": true,
+            "action": "OPEN_CONSUMER_PACKAGE_LIST",
+            "data": null
+        },
+        {
+            "id": "7eb2a254-68bc-4980-9b92-78d0a2dd0a0a",
+            "isOnTop": true,
+            "createdTime": "2020-07-11T04:59:01.332Z",
+            "message": "系统将于xx时间升级，届时将暂停服务",
+            "isRead": false,
+            "action": "NOTIFICATION_ONLY",
+            "data": null
+        },
+        {
+            "id": "8eb2a254-68bc-4980-9b92-78d0a2dd0a0a",
+            "isOnTop": true,
+            "createdTime": "2020-07-11T04:59:01.332Z",
+            "message": "系统将于xx时间升级2，届时将暂停服务",
+            "isRead": false,
+            "action": "NOTIFICATION_ONLY",
+            "data": null
+        },
+        {
+            "id": "9eb2a254-68bc-4980-9b92-78d0a2dd0a0a",
+            "isOnTop": true,
+            "createdTime": "2020-07-11T04:59:01.332Z",
+            "message": "系统将于xx时间升级3，届时将暂停服务",
+            "isRead": false,
+            "action": "NOTIFICATION_ONLY",
+            "data": null
+        },
+        {
+            "id": "7eb2a254-68bc-4980-9b92-78d0a2dd0a1a",
+            "createdTime": "2020-07-12T04:59:01.332Z",
+            "message": "你有20件包裹入库某某小店，另有5件未入库",
+            "isRead": false,
+            "action": "SHOW_PACKAGE_CHECK_IN_CONFIRMATION",
+            "data": {
+                "storeId": "7eb2a254-68bc-4980-9b92-78d0a2dd0a6a",
+                "storeName": "某某小店",
+                "checkedIn": 20,
+                "pending": [
+                    {
+                        "id": "7eb2a254-68bc-4980-9b92-78d0a2dd0a6f",
+                        "deliveryManId": "beb2a254-68bc-4980-9b92-78d0a2dd0a6f",
+                        "courierCode": "courier_0",
+                        "courierName": "courierName0",
+                        "trackingNo": "EX1234560CN",
+                        "arraivedTime": "2020-07-11T04:59:01.332Z",
+                        "storeId": "aeb2a254-68bc-4980-9b92-78d0a2dd0a6f",
+                        "storeName": "某某小店",
+                        "shortNo": "1234",
+                        "status": "ALLOCATED"
+                    },
+                    {
+                        "id": "1bfd47be-1935-471c-861b-700f90ca668c",
+                        "courierCode": "courier_1",
+                        "courierName": "courierName1",
+                        "trackingNo": "EX1234561CN",
+                        "arraivedTime": "2020-07-11T04:59:01.332Z",
+                        "storeName": "某某2小店",
+                        "shortNo": "2234",
+                        "status": "ALLOCATED"
+                    },
+                    {
+                        "id": "f319837a-ef9c-4bd0-82f4-9a7708398550",
+                        "courierCode": "courier_2",
+                        "courierName": "courierName2",
+                        "trackingNo": "EX1234562CN",
+                        "arraivedTime": "2020-07-11T04:59:01.332Z",
+                        "storeName": "某某3小店",
+                        "shortNo": "4434",
+                        "status": "ALLOCATED"
+                    },
+                    {
+                        "id": "329c0e9a-bde7-4fdd-af2f-9b08bbdd42bc",
+                        "courierCode": "courier_3",
+                        "courierName": "courierName3",
+                        "trackingNo": "EX1234563CN",
+                        "arraivedTime": "2020-07-11T04:59:01.332Z",
+                        "storeName": "某某小店",
+                        "shortNo": "1234",
+                        "status": "ALLOCATED"
+                    },
+                    {
+                        "id": "9106e730-4b78-4496-a7d7-dbb0d0fd9dde",
+                        "courierCode": "courier_4",
+                        "courierName": "courierName4",
+                        "trackingNo": "EX1234564CN",
+                        "arraivedTime": "2020-07-11T04:59:01.332Z",
+                        "storeName": "某某小店",
+                        "shortNo": "1234",
+                        "status": "ALLOCATED"
+                    }
+                ]
+            }
+        }
+    ]
+}
